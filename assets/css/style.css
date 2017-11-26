@@ -453,7 +453,7 @@ Template backgrounds
   background-attachment: fixed;
 }
 .hero-fullscreen.hero_one h1 {
-  font-family: "Great Vibes", cursive;
+  /* font-family: "Great Vibes", cursive; */
   color: #fff;
   font-weight: 400;
   font-size: 80px;
